@@ -1,6 +1,8 @@
 # MotionSense - Human Activity Recognition System
 
 A machine learning system that classifies human activities from smartphone sensor data using signal processing and AI.
+## RehabTracker-MotionSense AI
+contains detailed project description 
 
 ## Project Structure
 
